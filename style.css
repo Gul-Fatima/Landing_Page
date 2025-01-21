@@ -80,3 +80,16 @@ html, body {
 .nav-part2 h4:hover a {
   color: #fff;
 }
+#center{
+  height: 65vh;
+  width: 100%;
+  background-color: orange;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between
+}
+#left h3{
+  width: 30vw;
+  font-size: 2vw;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
